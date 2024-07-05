@@ -1,1 +1,1 @@
-A simple Crud Rest API with Node Js.
+A simple Crud Rest API with Node Js, Express and MongoDB.
